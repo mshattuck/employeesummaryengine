@@ -19,7 +19,7 @@ The Mozilla Public License (MPL) is a free and open-source software license deve
 ## List of Contributors:
 none
 ## Tests:
-test ran in the 'test' 
+test ran in the 'test' subfolder
 ## Questions:
 For quesitons, email at:  
 
